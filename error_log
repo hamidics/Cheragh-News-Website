@@ -1,0 +1,35 @@
+[28-Feb-2024 19:51:20 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home3/cheragdb/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[28-Feb-2024 19:51:20 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home3/cheragdb/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[29-Feb-2024 21:00:10 UTC] WordPress database error Duplicate column name 'priority' for query ALTER TABLE wpuw_actionscheduler_actions ADD COLUMN priority tinyint unsigned NOT NULL default '10' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_DBStore->init, ActionScheduler_Abstract_Schema->register_tables, ActionScheduler_Abstract_Schema->update_table, dbDelta
+[29-Feb-2024 21:00:10 UTC] WordPress database error Duplicate key name 'hook_status_scheduled_date_gmt' for query ALTER TABLE wpuw_actionscheduler_actions ADD KEY `hook_status_scheduled_date_gmt` (`hook`(163),`status`,`scheduled_date_gmt`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_DBStore->init, ActionScheduler_Abstract_Schema->register_tables, ActionScheduler_Abstract_Schema->update_table, dbDelta
+[29-Feb-2024 21:00:10 UTC] WordPress database error Duplicate key name 'status_scheduled_date_gmt' for query ALTER TABLE wpuw_actionscheduler_actions ADD KEY `status_scheduled_date_gmt` (`status`,`scheduled_date_gmt`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_DBStore->init, ActionScheduler_Abstract_Schema->register_tables, ActionScheduler_Abstract_Schema->update_table, dbDelta
+[02-Mar-2024 18:23:06 UTC] خطای رویداد زمانبندی‌شده مجدد Cron برای قلاب: nfd_data_sync_cron, کد خطا: invalid_schedule, پیغام خطا: زمان‌بندی رویداد وجود ندارد., داده: {"schedule":"minutely","args":[],"interval":60}
+[15-Mar-2024 15:26:13 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[24-Mar-2024 20:43:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Mar-2024 20:43:25 UTC] Cron reschedule event error for hook: jetpack_sync_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"jetpack_sync_interval","args":[],"interval":300}
+[26-Mar-2024 22:32:00 UTC] Cron reschedule event error for hook: mm_cron_monthly, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"monthly","args":[],"interval":2419200}
+[01-Apr-2024 06:51:26 UTC] Cron reschedule event error for hook: jetpack_sync_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"jetpack_sync_interval","args":[],"interval":300}
+[01-Apr-2024 06:51:26 UTC] Cron unschedule event error for hook: jetpack_sync_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"jetpack_sync_interval","args":[],"interval":300}
+[01-Apr-2024 10:48:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-settings.php on line 33
+[04-Apr-2024 15:54:54 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Apr-2024 15:54:54 UTC] Cron reschedule event error for hook: jetpack_sync_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"jetpack_sync_interval","args":[],"interval":300}
+[05-Apr-2024 14:23:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-settings.php on line 33
+[09-Apr-2024 01:59:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-settings.php on line 33
+[08-May-2024 18:37:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-settings.php on line 33
+[09-May-2024 19:23:36 UTC] PHP Fatal error:  Out of memory (allocated 35651584 bytes) (tried to allocate 618496 bytes) in /home3/cheragdb/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 24
+[23-Jun-2024 08:21:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-settings.php on line 33

@@ -1,0 +1,108 @@
+[01-Apr-2024 10:53:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[05-Apr-2024 14:27:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[09-Apr-2024 02:05:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[22-Apr-2024 23:26:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[04-May-2024 07:10:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[06-May-2024 07:26:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[08-May-2024 18:41:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[14-May-2024 22:51:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[19-May-2024 23:15:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[25-May-2024 07:27:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[29-May-2024 00:10:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[31-May-2024 08:43:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[03-Jun-2024 23:56:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[10-Jun-2024 06:56:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[16-Jun-2024 01:03:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[17-Jun-2024 17:39:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[20-Jun-2024 18:12:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[21-Jun-2024 01:19:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[23-Jun-2024 08:31:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[13-Jul-2024 04:57:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[15-Jul-2024 09:51:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[17-Jul-2024 19:25:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[07-Aug-2024 05:59:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[14-Aug-2024 19:13:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[14-Aug-2024 19:13:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[19-Aug-2024 09:26:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
+[22-Aug-2024 07:56:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/cheragdb/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cheragdb/public_html/wp-includes/blocks/index.php on line 8
